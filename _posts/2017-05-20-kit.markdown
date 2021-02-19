@@ -1,0 +1,27 @@
+---
+layout: post
+date: 2017-05-20
+category: [Innovation Economics, Technological Change, Simulation Analysis]
+excerpt: Abstract economics model of knowledge appearance.  
+title: Theoretical model of GPT formation
+---
+
+
+This is a pure theoretical work in innovation economics and economics of technology. It describes forces that lead to the appearance of so called
+general purpose technology (GPT) in the economy (think of electricity or information and communication technology (ICT) as examples). These technologies find applications in various sectors of economy transforming the way people work and adding economic value.
+My work demonstrates that under certain conditions four forces might lead to a formation of such a general knowledge.
+You can find a detailed description and results in the following <a href="https://doi.org/10.1016/j.techfore.2017.12.011"> paper </a>.
+
+The work is largely inspired by the following books:
+
+ <ul>
+  <li>General Purpose Technologies and Economic Growth (<a href="https://mitpress.mit.edu/books/general-purpose-technologies-and-economic-growth"> link </a>)</li>
+  <li>Economic Transformations: General Purpose Technologies and Long Term Economic Growth (<a href="https://www.amazon.de/dp/B004MKLUEY/ref=cm_sw_em_r_mt_dp_U_r8kgDbB2KYWCP"> link </a>)</li>
+  <li>Network Science (<a href="http://networksciencebook.com/"> link </a>)</li>
+</ul>
+
+and was done in the Institute for Economics (<a href="https://wipo.econ.kit.edu/"> ECON </a>) in Karlsruhe Institute of Technology under the supervision of the <a href="https://wipo.econ.kit.edu/87.php">Prof. Dr. Ingrid Ott</a>.
+
+**Collaborators:**
+
+- <a href="https://wipo.econ.kit.edu/21_874.php">PD Dr. Ivan Savin </a>
