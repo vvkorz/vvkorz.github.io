@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+sidebar: true
 ---
 
 # About
@@ -16,6 +17,4 @@ title: About
 hobby programmer (in python and go)
 
 raspberry pi
-
-links to social media nad other websites
 

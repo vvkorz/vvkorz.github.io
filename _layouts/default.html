@@ -18,7 +18,21 @@
     {% include navigation.html %}
 
     <div class="container">
-    {{ content }}
+
+      <div class="row">
+        {% if page.sidebar %}
+        <div class="col-md-2">
+          {% include sidebar.html %}
+        </div>
+        <div class="col-md-10">
+          {{ content }}
+        </div>
+        {% else %}
+        <div class="col-md-12">
+          {{ content }}
+        </div>
+        {% endif %}
+      </div>
     </div>
 
     {% include footer.html %}

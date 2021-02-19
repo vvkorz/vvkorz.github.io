@@ -3,15 +3,13 @@ layout: page
 title: Home
 ---
 
-# Hi
+# whereami
 
-- This is my personal website
-student > engineer > economist > data scientist 
+Hi!
 
-Links to
+My name is Vladimir and this is my personal website. 
+Go and check my [blog]({% link blog.html %}) in case you are interested in things I have been working on. 
+There is also an [about]({% link about.md %}) page where you can find my resume.
 
-- Blog
-- About the website
-- Interests
-- Resume (make a short version with a link to email)
-- 
+Random XKCD ??
+ 
