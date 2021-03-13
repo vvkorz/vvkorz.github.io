@@ -2,13 +2,13 @@
 layout: post
 date: 2011-06-21
 category: [Vacuum Engineering]
-excerpt: "Diploma of engineer in Bauman University in Moscow. The design and assembly of a vacuum machine for deposition of thin films."
+excerpt: "A brief summary of my engineering degree"
 title: Vacuum Machine
 ---
 
-<p>This post is a brief summary of my diploma in Bauman Moscow State Technical University (<a href="http://www.bmstu.ru/en/">BMSTU</a>) in Moscow.</p>
+<p>Here is what I did to earn my engineering degree in Bauman Moscow State Technical University (<a href="http://www.bmstu.ru/en/">BMSTU</a>)</p>
 
-<img src="{{ site.url }}/assets/images/vacuum_machine.jpg" align="middle" />
+<img src="{{ site.url }}/assets/images/vacuum_machine.jpg" align="middle"/>
 <p>
 The title of my thesis is «Vacuum evaporation machine of Osmium films». Over the last two years of my university's studies in Moscow all my term papers have been dedicated to different parts of this system. All papers were written in Russian language and here I just briefly describe the machine.
 

@@ -2,7 +2,7 @@
 layout: post
 date: 2017-05-20
 category: [Innovation Economics, Technological Change, Simulation Analysis]
-excerpt: Abstract economics model of knowledge appearance.  
+excerpt: Abstract economics model of knowledge generation.  
 title: Theoretical model of GPT formation
 ---
 

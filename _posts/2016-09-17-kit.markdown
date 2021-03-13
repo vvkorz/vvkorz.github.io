@@ -2,8 +2,8 @@
 layout: post
 date: 2016-09-17
 category: [Text Classification, Machine Learning]
-excerpt: Classification of patent documents from PATSTAT based on their abstracts. This is one of my first projects making use of machine learning for text classification.
-title: Support Vector Machine for Patent Text Classification
+excerpt: Classification of patent documents from PATSTAT based on their abstracts. 
+title: SVM for patent text classification
 ---
 
 This is one of my first projects making use of machine learning for text classification. In order to analyse technological innovations in Germany for my PhD thesis, robotics patents were classified into service and industrial classes.
