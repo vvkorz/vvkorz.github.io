@@ -2,11 +2,20 @@
   color: green;
 }
 
+.orangecolor {
+  color: #E8850E
+}
+
 body {
   padding-top: 60px;
 }
 @media (max-width: 979px) {
   body {
-    padding-top: 0px;
+    padding-top: 69px;
   }
+}
+
+img {
+  width: 100%;
+  height: auto;
 }

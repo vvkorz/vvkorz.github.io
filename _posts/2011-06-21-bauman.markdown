@@ -8,7 +8,7 @@ title: Vacuum Machine
 
 <p>This post is a brief summary of my diploma in Bauman Moscow State Technical University (<a href="http://www.bmstu.ru/en/">BMSTU</a>) in Moscow.</p>
 
-<img src="{{ site.url }}/img/vacuum_machine.jpg" align="left" />
+<img src="{{ site.url }}/assets/images/vacuum_machine.jpg" align="middle" />
 <p>
 The title of my thesis is «Vacuum evaporation machine of Osmium films». Over the last two years of my university's studies in Moscow all my term papers have been dedicated to different parts of this system. All papers were written in Russian language and here I just briefly describe the machine.
 
@@ -29,6 +29,6 @@ To choose the most rational variants of purchased parts (that is pumps, flanged 
 
 This is how the machine looked like at the end:
 
-<img src="{{ site.url }}/img/vacuum.png" align="middle" />
+<img src="{{ site.url }}/assets/images/vacuum.png" align="middle" />
 
 The resulting machine was successfully exploited in the experimental production unit of the <a href="https://www.toriy.ru/">"Toriy"</a> Company in Moscow.

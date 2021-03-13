@@ -1,13 +1,18 @@
 ---
 title: Blog
 ---
-<h1>posts</h1>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2> <a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+        {% for post in site.posts %}
+            <h2> <a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.date | date: "%-d %B %Y"}}</p>
+            <p>{{ post.excerpt }}</p>
+        {% endfor %}
+    </div>
+  </div>
+</div>
+
+

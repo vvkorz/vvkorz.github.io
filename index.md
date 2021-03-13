@@ -3,13 +3,8 @@ layout: page
 title: Home
 ---
 
-# whereami
-
 Hi!
 
-My name is Vladimir and this is my personal website. 
-Go and check my [blog]({% link blog.html %}) in case you are interested in things I have been working on. 
-There is also an [about]({% link about.md %}) page where you can find my resume.
+My name is Vladimir Korzinov. I am data scientist and full stack software developer in Germany.
 
-Random XKCD ??
- 
+<i class="far fa-fw fa-envelope"></i>: korzinovvv <i class="fas fa-at"></i> gmail [dot] com 

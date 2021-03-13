@@ -4,16 +4,15 @@
 # Site wide configuration
 ####################################
 #
-title: "PhD, Vladimir Korzinov"
-email: "korzinovvv@gmail.com"
+title: "Vladimir Korzinov"
 description: "Personal Website"
+base_url: "/"
 
 owner:
   name: Vladimir Korzinov
   avatar: avatar.png
   job: "Data Scientist"
   bio: "student > engineer > economist > data scientist"
-  email: "korzinovvv@gmail.com"
   twitter: "@vvkorz"
   github: "vvkorz"
   bitbucket: protvino
