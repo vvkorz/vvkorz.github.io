@@ -7,9 +7,10 @@ title: Blog
   <div class="row">
     <div class="col-md-12">
         {% for post in site.posts %}
-            <h3> <a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></h3>
+            <a class="text-dark h3" href="{{ post.url }}">{{ post.title }}</a>
             <p>{{ post.date | date: "%-d %B %Y"}}</p>
             <p class="text-truncate">{{ post.excerpt }}</p>
+            <br>
         {% endfor %}
     </div>
   </div>

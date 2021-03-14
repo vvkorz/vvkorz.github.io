@@ -2,15 +2,14 @@
 layout: post
 date: 2011-06-21
 category: [Vacuum Engineering]
-excerpt: "A brief summary of my engineering degree"
+excerpt: A brief summary of my engineering degree
 title: Vacuum Machine
 ---
 
 <p>Here is what I did to earn my engineering degree in Bauman Moscow State Technical University (<a href="http://www.bmstu.ru/en/">BMSTU</a>)</p>
 
-<img src="{{ site.url }}/assets/images/vacuum_machine.jpg" align="middle"/>
 <p>
-The title of my thesis is «Vacuum evaporation machine of Osmium films». Over the last two years of my university's studies in Moscow all my term papers have been dedicated to different parts of this system. All papers were written in Russian language and here I just briefly describe the machine.
+The title of my thesis is «Vacuum evaporation machine of Osmium films». During the last two years of my university's studies in Moscow all my term papers have been dedicated to different parts of this system. All papers were written in Russian language and here I just briefly describe the machine.
 
 In general the task was a redesign of an existing vacuum machine, from which I, basically, reused only the main body with all its units and technical parts including the vacuum system being redesigned by me.
 The major function of this machine is to etch and deposit the Osmium film on the emitting surface of cathodes of various constructions and designs. To meet different requirements of cathode production technology multiple technological regimes of etching were developed.
@@ -31,4 +30,5 @@ This is how the machine looked like at the end:
 
 <img src="{{ site.url }}/assets/images/vacuum.png" align="middle" />
 
+<img src="{{ site.url }}/assets/images/vacuum_machine.jpg" align="middle"/>
 The resulting machine was successfully exploited in the experimental production unit of the <a href="https://www.toriy.ru/">"Toriy"</a> Company in Moscow.

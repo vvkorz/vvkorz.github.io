@@ -2,7 +2,7 @@
 layout: post
 date: 2017-05-20
 category: [Innovation Economics, Technological Change, Simulation Analysis]
-excerpt: Abstract economics model of knowledge generation.  
+excerpt: Abstract economics model of knowledge generation 
 title: Theoretical model of GPT formation
 ---
 
@@ -20,8 +20,4 @@ The work is largely inspired by the following books:
   <li>Network Science (<a href="http://networksciencebook.com/"> link </a>)</li>
 </ul>
 
-and was done in the Institute for Economics (<a href="https://wipo.econ.kit.edu/"> ECON </a>) in Karlsruhe Institute of Technology under the supervision of the <a href="https://wipo.econ.kit.edu/87.php">Prof. Dr. Ingrid Ott</a>.
-
-**Collaborators:**
-
-- <a href="https://wipo.econ.kit.edu/21_874.php">PD Dr. Ivan Savin </a>
+and was done in the Institute for Economics (<a href="https://wipo.econ.kit.edu/"> ECON </a>) in Karlsruhe Institute of Technology together with <a href="https://wipo.econ.kit.edu/21_874.php">PD Dr. Ivan Savin </a> under the supervision of the <a href="https://wipo.econ.kit.edu/87.php">Prof. Dr. Ingrid Ott</a>.
