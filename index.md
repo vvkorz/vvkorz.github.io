@@ -5,7 +5,7 @@ title: Home
 
 Hi!
 
-My name is Vladimir Korzinov. I am data scientist and full stack software developer in Germany.
+My name is Vladimir Korzinov. I am a full stack data scientist and software developer in Germany.
 
 <i class="far fa-fw fa-envelope"></i>: korzinovvv <i class="fas fa-at"></i> gmail [dot] com 
 
