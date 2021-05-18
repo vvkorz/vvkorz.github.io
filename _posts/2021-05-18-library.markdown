@@ -1,0 +1,30 @@
+---
+layout: post
+date: 2021-05-18
+category: [Raspberry Pi]
+excerpt: A list of usefull links and books.
+title: A zoo of useful links and books
+---
+
+# Links & Books
+
+Here is a collection of links and books that I ever found interesting and don't want to forget.
+
+
+## Computer Science
+
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- [Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [algorithmsbook.com](https://algorithmsbook.com/)
+- [The Twelve-Factor App](https://12factor.net/)
+
+### Data Science
+
+- [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
+
+## Economics
+
+- [General Purpose Technologies and Economic Growth](https://mitpress.mit.edu/books/general-purpose-technologies-and-economic-growth) 
+- [Economic Transformations: General Purpose Technologies and Long Term Economic Growth](https://www.amazon.de/dp/B004MKLUEY/ref=cm_sw_em_r_mt_dp_U_r8kgDbB2KYWCP)
+- [Network Science](http://networksciencebook.com/)
+
