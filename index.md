@@ -5,7 +5,9 @@ title: Home
 
 Hi!
 
-My name is Vladimir Korzinov. I am a full stack data scientist and software developer in Germany.
+My name is Vladimir and this is my personal website. At work I am focusing on building and operating machine learning solutions and supervising small team of data scientists and ML engineers.
+
+In my free time I like to geek out with Raspberry PIs and enjoy hiking and travelling.
 
 <i class="far fa-fw fa-envelope"></i>: korzinovvv <i class="fas fa-at"></i> gmail [dot] com 
 
