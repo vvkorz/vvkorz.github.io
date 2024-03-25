@@ -1,5 +1,5 @@
 ---
-title: "Vacuum Machine"
+title: Engineering degree in BMSTU 
 date: 2011-06-21
 description: A brief summary of my engineering degree
 type: page 
