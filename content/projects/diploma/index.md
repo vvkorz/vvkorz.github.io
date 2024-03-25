@@ -5,25 +5,24 @@ description: A brief summary of my engineering degree
 type: page 
 ---
 
-Here is what I did to earn my engineering degree in [Bauman Moscow State Technical University (BMSTU)](http://www.bmstu.ru/en/).
+Here's the account of my journey to earning an engineering degree from [Bauman Moscow State Technical University (BMSTU)](http://www.bmstu.ru/en/).
 
-The title of my thesis is «Vacuum evaporation machine of Osmium films». During the last two years of my university's studies in Moscow all my term papers have been dedicated to different parts of this system. All papers were written in Russian language and here I just briefly describe the machine.
+My thesis, titled "Vacuum Evaporation Machine for Osmium Films," encapsulated the culmination of my studies. Throughout the final two years of my education in Moscow, I devoted all my term papers to various components of this intricate system, documented solely in Russian. Here, I'll provide a brief overview of the machine.
 
-In general the task was to redesign an existing vacuum machine, from which I reused only the main chamber with all its units and technical parts including the vacuum system being redesigned.
-The major function of this machine is to etch and deposit the Osmium film on the emitting surface of cathodes of various designs. To meet different requirements of cathode production technology multiple technological regimes of etching were developed.
-The described system is constructed for maintenance of various regimes of etching, both with high, and low speed, and also with maintenance of the minimum non-uniformity of the film.
+The primary objective was to overhaul an existing vacuum apparatus, salvaging only the core chamber along with its accompanying units and technical elements, while reimagining the vacuum system entirely. This machine's principal role is to both etch and deposit osmium films onto the emitting surfaces of cathodes of diverse configurations. To accommodate the diverse demands of cathode production techniques, a range of etching protocols was devised.
 
-Given the constrained parameters and dimensions of cathodes I have created various layout diagrams of the system. The carousel type of the machine proved to be the most suitable.
-I have chosen magnetron as an evaporating system and calculated it's parameters on the basis of the required Osmium film properties.
-On the ground of these calculations, I have developed the design of intra-chamber equipment determining the place of the basic technological units and choosing the pattern of cartridge with cathodes motion.
-Due to the optimal location of the essential units, the design of the vacuum chamber provides normal functioning of the machine and ease in maintenance.
-The kinematic calculations were performed in Matlab simulating different transmission ratios, necessary frequency of electric motors, carousel rotation, as well as the basic threaded connections.
-Besides, the vacuum system has been developed to achieve required vacuum levels. Calculating the time of pumping I took into account sorption and desorption of the gases on the walls of the chamber.
-Putting the principles of ease in maintenance, I have arranged the configuration of vacuum system on a carrying frame.
-To choose the most rational variants of purchased parts (that is pumps, flanged connections, current feed throughs, valves and etc.), within the limits of the project, I have carried out the analysis of the construction and properties of these parts of vacuum system.
+The system I describe was engineered to facilitate multiple etching regimens, catering to both high and low speeds while minimizing film irregularities. Given the specific parameters and dimensions of the cathodes, I devised various layout schematics, ultimately settling on a carousel design as the most suitable.
 
-This is how the machine looked like at the end:
+For the evaporative system, I opted for a magnetron and meticulously calculated its parameters based on the desired properties of the osmium film. Subsequently, I crafted the intra-chamber apparatus layout, strategically placing essential technological components and selecting the motion pattern for the cathode cartridge.
+
+By optimizing the arrangement of vital components within the vacuum chamber, I ensured smooth operation and ease of maintenance. Kinematic analyses were performed using Matlab, simulating transmission ratios, motor frequencies, carousel rotations, and threaded connections.
+
+Additionally, a vacuum system was engineered to attain requisite vacuum levels, factoring in gas sorption and desorption on chamber walls when estimating pumping times. To streamline maintenance procedures, I designed the vacuum system configuration on a portable frame.
+
+Furthermore, I conducted a comprehensive analysis to select the most suitable components—such as pumps, flanged connections, current feed-throughs, and valves—within project constraints, ensuring optimal performance.
+
+The culmination of this endeavor was a machine that resembled the following:
 
 ![3dimage](/images/vacuum_machine.jpg)
 
-The resulting machine was successfully exploited in the experimental production unit of the ["Toriy" Company](https://www.toriy.ru/) in Moscow.
+Subsequently, the completed machine was successfully deployed in the experimental production unit of the ["Toriy" Company](https://www.toriy.ru/) in Moscow.
