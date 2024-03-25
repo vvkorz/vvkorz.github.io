@@ -11,8 +11,7 @@ Here is a list of things I did during my studies:
 - [Economics modelling](/projects/economics/)
 - [Patent classification](/projects/patents/)
 
-Side projects:
+Here are a few things I did on the weekends:
 
 - [Mondrian like pictures in Go](/projects/mondrian/)
-- [Magic Mirror](/projects/magicmirror/)
 - [Office hours tracking](/projects/rfid/)

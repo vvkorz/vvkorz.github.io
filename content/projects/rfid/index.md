@@ -1,12 +1,10 @@
 ---
 type: post
 date: 2020-03-20
-tags: ["Side projects", "Raspberry Pi"]
+tags: ["projects", "Raspberry Pi"]
 description: RFID based attendance systems, build in times of COVID-19 isolation to track my working hours.  
 title: Attendance system to track home office hours
 ---
-
-
 
 Here is an attendance system that I build in times of [COVID-19](https://de.wikipedia.org/wiki/COVID-19) isolation in home office.
 I needed a way to track my working hours. It uses Raspberry Pi, RFID antenna and my private Dropbox to save a csv with my hours.

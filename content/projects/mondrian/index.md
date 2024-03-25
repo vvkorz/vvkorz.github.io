@@ -1,7 +1,10 @@
 ---
 title: Piet Mondrian generative art in Go
-type: page
-tags: ["projects"]
+date: 2023-02-26
+description: A Mondrian image generator in Go.
+type: post
+tags: ["projects", "useless"]
+showTableOfContents: true
 ---
 
 A Mondrian image generator in Go takes a canvas of a certain size and divides it into partitions, thus creating
@@ -15,7 +18,7 @@ The Mondrian generator has the possibility to generate two styles of Mondrian-in
 
 ## The Mondrian Process
 
-The core of the algorithm is the 2D Mondrian Process, as defined in [1].
+The core of the algorithm is the 2D Mondrian Process, as defined in [this paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.564.8410&rep=rep1&type=pdf).
 We describe the 2D Mondrian Process `M ~ MP(lambda, x0, x1, y0, y1)` on the rectangle `(x0, x1) x (y0, y1)` with initial budget `lambda = x1 - x0 + y1 - y0`.
 A horizontal y-axis-aligned cut is made uniformly at random along the interval `(y0, y1)`. The new point `y_new` splits `(y0, y1)` into
 two intervals `(y_new, y1)` and `(y0, y_new)` and the initial budget `lambda` is regenerated as `lambda_new = lambda - Expcost`, where
@@ -62,7 +65,7 @@ To prevent large data sets being passed around between recursions, the algorithm
 - [GoMondrian](https://github.com/8lall0/GoMondrian)
 - [generativeart](https://github.com/jdxyw/generativeart)
 
-# Links:
+Links:
  
- - [github](https://github.com/vvkorz/mondrian)
+ - [<span data-feather='github'></span> github](https://github.com/vvkorz/mondrian)
  - [Mondrian playground](https://mondrian-play.azurewebsites.net/)

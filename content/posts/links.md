@@ -1,6 +1,6 @@
 ---
 title: Links & Books
-date: 2023-02-26
+date: 2024-03-25
 description: A list of usefull links and books.
 type: post
 tags: ["blog", "books"]
