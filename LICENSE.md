@@ -1,1 +1,0 @@
-This work is licenced under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
