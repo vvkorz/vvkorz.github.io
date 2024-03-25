@@ -1,6 +1,6 @@
 baseURL = 'https://vvkorz.github.io/'
 languageCode = 'en-us'
-title = 'Welcome'
+title = 'Vladimir Korzinov'
 theme = 'gokarna'
 
 # Automatically generate robots.txt
@@ -77,10 +77,10 @@ enableRobotsTXT = true
   avatarURL = "/images/yoki.jpeg"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "size-m"
+  avatarSize = "size-l"
 
   # Description to display on homepage
-  description = "You haven't earned it"
+  description = "'You haven't earned it'"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
@@ -98,13 +98,12 @@ enableRobotsTXT = true
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
   # or "" (do not display, default option)
-  showPostsOnHomePage = ""
+  showPostsOnHomePage = "recent"
 
   # Footer text
-  footer = "Footer Text"
+  footer = "Vladimir Korzinov"
 
   socialIcons = [
       {name = "twitter", url = "https://example.com"},
       {name = "linkedin", url = "https://example.com"},
-      {name = "github", url = "https://example.com"},
     ]
