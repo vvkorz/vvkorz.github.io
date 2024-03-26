@@ -80,7 +80,7 @@ enableRobotsTXT = true
   avatarSize = "size-l"
 
   # Description to display on homepage
-  description = "'You haven't earned it'"
+  description = "'Whatever it is, you have not earned it'"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"

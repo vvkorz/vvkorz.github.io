@@ -5,7 +5,7 @@ description: A brief summary of my engineering degree
 type: page 
 ---
 
-Here's the account of my journey to earning an engineering degree from [Bauman Moscow State Technical University (BMSTU)](http://www.bmstu.ru/en/).
+Here's the account of my journey to earning an engineering degree from [Bauman Moscow State Technical University (BMSTU)](https://en.wikipedia.org/wiki/Bauman_Moscow_State_Technical_University).
 
 My thesis, titled "Vacuum Evaporation Machine for Osmium Films," encapsulated the culmination of my studies. Throughout the final two years of my education in Moscow, I devoted all my term papers to various components of this intricate system, documented solely in Russian. Here, I'll provide a brief overview of the machine.
 
