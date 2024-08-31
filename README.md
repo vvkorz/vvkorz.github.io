@@ -9,5 +9,8 @@ Build with
 - [Hugo](https://gohugo.io/)
 - [Gokarna](https://gokarna-hugo.netlify.app/)
 
-# TODO
-- add proper licence.txt
+to build locally
+
+``` bash
+$ hugo server
+```
