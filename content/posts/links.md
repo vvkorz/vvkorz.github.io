@@ -1,6 +1,6 @@
 ---
 title: Links & Books
-date: 2024-03-25
+date: 2024-08-31
 description: A list of usefull links and books.
 type: post
 tags: ["blog", "books"]
@@ -22,6 +22,7 @@ Here is a collection of links and books that I ever found interesting and don't 
 - [Design Patterns. Elements of Reusable Object-Oriented Software.](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612) by  Erich Gamma, Richard Helm, Ralph E. Johnson, John Vlissides
 
 ## Economics
+
 - [Why Nations Fail: The Origins of Power, Prosperity, and Poverty](https://en.wikipedia.org/wiki/Why_Nations_Fail) by Daron Acemoglu and James Robinson.
 - [Creating a Learning Society](http://cup.columbia.edu/book/creating-a-learning-society/9780231152143) A New Approach to Growth, Development, and Social Progress by Joseph E. Stiglitz and Bruce C. Greenwald. With Philippe Aghion, Kenneth J. Arrow, Robert M. Solow, and Michael Woodford.
 - [General Purpose Technologies and Economic Growth](https://mitpress.mit.edu/books/general-purpose-technologies-and-economic-growth) 
