@@ -1,5 +1,6 @@
 # Generated files by hugo
 /public/*
+**/localwork/*
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
@@ -11,3 +12,9 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac
+*.DS_Store
