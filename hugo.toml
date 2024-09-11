@@ -1,6 +1,6 @@
 baseURL = 'https://vvkorz.github.io/'
 languageCode = 'en-us'
-title = 'Vladimir Korzinov'
+title = 'Vladimir K'
 theme = 'gokarna'
 
 # Automatically generate robots.txt
@@ -101,7 +101,7 @@ enableRobotsTXT = true
   showPostsOnHomePage = "recent"
 
   # Footer text
-  footer = "Vladimir Korzinov"
+  footer = "Vladimir K"
 
   socialIcons = [
       {name = "twitter", url = "https://x.com/vvkorz"},
