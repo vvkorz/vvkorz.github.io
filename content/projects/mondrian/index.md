@@ -14,7 +14,11 @@ approach, check out section "Algorithm description".
 
 The Mondrian generator has the possibility to generate two styles of Mondrian-inspired images:
 - the classical Mondrian image with primary colored rectangle partitions which are outlined with black lines
-- a more abstract Mondrian inspired image with only primary colored rectangles which are not outlined
+- a more abstract Mondrian inspired image with only primary colored rectangles which are not outlined. 
+
+ Feel free to check out the [mondrian playground](https://mondrian-play.azurewebsites.net/)  or [<span data-feather='github'></span> github](https://github.com/vvkorz/mondrian) repo.
+
+![mondrianscreen](mondrianscreen.png)
 
 ## The Mondrian Process
 
@@ -65,7 +69,3 @@ To prevent large data sets being passed around between recursions, the algorithm
 - [GoMondrian](https://github.com/8lall0/GoMondrian)
 - [generativeart](https://github.com/jdxyw/generativeart)
 
-Links:
- 
- - [<span data-feather='github'></span> github](https://github.com/vvkorz/mondrian)
- - [Mondrian playground](https://mondrian-play.azurewebsites.net/)

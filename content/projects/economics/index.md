@@ -6,7 +6,7 @@ type: page
 ---
 
 
-This is theoretical work in innovation economics and economics of technology. The work was done in the [Institute for Economics (ECON)](https://wipo.econ.kit.edu/) in Karlsruhe Institute of Technology together with [PD Dr. Ivan Savi](https://wipo.econ.kit.edu/21_874.php) under the supervision of [Prof. Dr. Ingrid Ott](https://wipo.econ.kit.edu/87.php).
+This is theoretical work in innovation economics and economics of technology. The work was done in the [Institute for Economics (ECON)](https://wipo.econ.kit.edu/) in Karlsruhe Institute of Technology together with [PD Dr. Ivan Savin](https://wipo.econ.kit.edu/21_874.php) under the supervision of [Prof. Dr. Ingrid Ott](https://wipo.econ.kit.edu/87.php).
 
 The idea was to model forces that might lead to the appearance of so called [general purpose technology (GPT)](https://en.wikipedia.org/wiki/General-purpose_technology) in the economy. One can think of electricity or information and communication technology (IT) as examples. These technologies find applications in various sectors of economy transforming the way people work and add economic value.
 
