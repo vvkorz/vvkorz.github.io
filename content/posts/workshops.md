@@ -1,7 +1,7 @@
 ---
-title: Team Workshops
+title: Leadership Workshops
 date: 2026-11-19
-description: How to run team workshops?
+description: What I took from leadership workshops?
 type: post
 tags: ["blog", "leadership", "corporate"]
 showTableOfContents: true
