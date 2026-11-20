@@ -9,6 +9,10 @@ showTableOfContents: true
 
 Here is a collection of links and books that I ever found interesting and don't want to forget.
 
+## Life
+
+- [Superforecasting. The art and science of prediction](https://www.goodreads.com/book/show/29425681) by Philip E. Tetlock
+
 ## Computer Science
 
 - [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) by T. H. Cormen, C. E. Leiserson, R.L. Rivest, & C. Stein
